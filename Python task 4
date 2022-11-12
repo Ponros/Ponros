@@ -1,0 +1,8 @@
+
+E= {0, 2, 4, 6,8}
+N= {1, 3, 5} 
+
+print("union",E| N)
+Print("difference",E-N)
+Print("interaction",E&N)
+Print("symmetric difference", E^N)
